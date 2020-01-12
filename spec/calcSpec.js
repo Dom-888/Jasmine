@@ -6,6 +6,9 @@ describe("Calculator", function() {
         it("should return 26", function() {
             expect(addition(9, 17)).toBe(26);
         })
+        it("should return an error if we don't supply two numbers", function() {
+            expect(addition("bottle", "water")).toBe(("Error!"))
+        });
     });
 });
 
