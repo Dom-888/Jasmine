@@ -1,1 +1,1 @@
-Learning about the Jasmine framework for JavaScript testing
+The purpose of this repository is to learning about the Jasmine framework for JavaScript testing
